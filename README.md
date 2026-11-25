@@ -2,7 +2,7 @@
 
 **Differentiable nonlinear aeroelasticity of high-aspect-ratio wings, in pure Python/JAX.**
 
-`gebtaero-jax` is a modern re-implementation of two research codes:
+`gebtaero-jax` is a modern re-implementation (thanks claude) of two research codes:
 
 * [**GEBTAero**](https://github.com/mid2SUPAERO/GEBTAero) (ISAE-Supaero / French Air Force Academy): a
   geometrically exact beam (GEBT, W. Yu) coupled with strip aerodynamics, built for fast flutter/divergence
